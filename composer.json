@@ -1,0 +1,21 @@
+{
+    "name": "aizuyan/image2assic",
+    "description": "image convert to assic text",
+    "authors": [
+        {
+            "name": "燕睿涛",
+            "email": "ritoyan@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aizuyan\\Image2Ascii\\": "src"
+        }
+    },
+    "bin": [
+        "bin/img2ascii"
+    ]
+}

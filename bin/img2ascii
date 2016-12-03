@@ -1,0 +1,23 @@
+#!/usr/bin/env php
+<?php
+if (PHP_SAPI !== 'cli') {
+    echo 'Warning: img2ascii should be invoked via the CLI, not the '.PHP_SAPI.' SAPI'.PHP_EOL;
+}
+
+foreach([
+    __DIR__ . "/../../../autoload.php",
+    __DIR__ . "/../vendor/autoload.php"
+] as $file) {
+    if (file_exists($file)) {
+        require $file;
+        break;
+    }
+}
+
+$image = $argv[1];
+$scaleX = $argv[2];
+$scaleY = $argv[3];
+
+use Aizuyan\Image2Ascii\Image2Ascii;
+$app = new Image2Ascii($image);
+echo $app->createImage()->createPixel()->scale($scaleX, $scaleY)->out();
