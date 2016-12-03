@@ -3,8 +3,9 @@
 
 向下面这样
 
+![🐶](https://github.com/aizuyan/img2ascii/blob/master/test/dog.png)
 
-
+```
 nmnM9@B0M08BB08@mmmM9q98@@0809MMmNB000M8BB8Nnrtttn
 MBMNN9BN0B9n9Mns7i:i i :   :i iriipM@9N9mmpqptronn
 qMnopon9nrvr:  . ... ...   :  ,,  ,   :vtsqsM09Nnm
@@ -25,3 +26,4 @@ M99nii;. iiiprr: ,,,  :  ,  ::ii7pnms7iiipN0808088
 iiiiri7vvvr :: i ri: i i:i:r: r  ii i r:ir;:rr iiv
 riiiiiiiviririv    i i  rrii: iiii i i i :rr:::rri
 ii7ii7ivrri:ivir :i i  i i   ii i i i  i  i  : ii:
+```
