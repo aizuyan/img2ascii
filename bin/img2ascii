@@ -23,10 +23,3 @@ $app->add(new Img2AsciiCmd());
 $statue = $app->run();
 exit($statue);
 
-die();
-
-
-$image = $argv[1];
-$scaleX = $argv[2];
-$scaleY = $argv[3];
-
