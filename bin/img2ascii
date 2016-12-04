@@ -14,10 +14,19 @@ foreach([
     }
 }
 
+use Aizuyan\Image2Ascii\Command\Img2AsciiCmd;
+use Aizuyan\Image2Ascii\Console\Application;
+use Aizuyan\Image2Ascii\Image2Ascii;
+
+$app = new Application();
+$app->add(new Img2AsciiCmd());
+$statue = $app->run();
+exit($statue);
+
+die();
+
+
 $image = $argv[1];
 $scaleX = $argv[2];
 $scaleY = $argv[3];
 
-use Aizuyan\Image2Ascii\Image2Ascii;
-$app = new Image2Ascii($image);
-echo $app->createImage()->createPixel()->scale($scaleX, $scaleY)->out();
