@@ -138,6 +138,3 @@ class Image2Ascii
         return $this->grayAsciiMap[$index][array_rand($this->grayAsciiMap[$index])];
     }
 }
-
-//$img2Ascii = new Image2Ascii("dog.png");
-//echo $img2Ascii->createImage()->createPixel()->scale(10, 20)->out();
