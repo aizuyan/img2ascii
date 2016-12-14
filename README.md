@@ -1,6 +1,18 @@
 ###
 这是个小工具，将图片转换为assic字符
 
+使用：
+
+`-s` 指定缩放比例
+`-x` 指定宽度缩放比例，覆盖`-s`
+`-y` 指定高度缩放比例，覆盖`-s`
+
+```
+bin/img2ascii path/to/img -s 10
+bin/img2ascii path/to/img -s 10 -x 5
+bin/img2ascii path/to/img -s 10 -y 20
+```
+
 向下面这样
 
 ![🐶](https://github.com/aizuyan/img2ascii/blob/master/test/dog.png)
