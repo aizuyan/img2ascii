@@ -59,25 +59,32 @@ class Img2AsciiCmd extends Command
             ->setDescription("image convert to ascii")
             ->addArgument("target", InputArgument::REQUIRED, "Where is the target you convert to ascii")
             ->addOption(
+                "scale",
+                "s",
+                InputOption::VALUE_REQUIRED,
+                "The scale ratio of image to ascii",
+                "5"
+            )->addOption(
                 "scalex",
                 "x",
-                InputOption::VALUE_REQUIRED,
-                'The scale ratio of width',
-                1
+                InputOption::VALUE_OPTIONAL,
+                'The scale ratio of width'
             )->addOption(
                 "scaley",
                 "y",
-                InputOption::VALUE_REQUIRED,
-                'The scale ratio of height',
-                1
+                InputOption::VALUE_OPTIONAL,
+                'The scale ratio of height'
             );
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $image = $input->getArgument('target');
+        $scale = intval($input->getOption("scale"));
         $scalex = intval($input->getOption("scalex"));
         $scaley = intval($input->getOption("scaley"));
+        $scalex = $scalex ? $scalex : $scale;
+        $scaley = $scaley ? $scaley : $scale * 2;
 		if (!file_exists($image)) {
             $output->writeln("<error>Could not find target {$image}</error>");
             return 0;
