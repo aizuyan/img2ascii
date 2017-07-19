@@ -63,6 +63,14 @@ class Image2Ascii
     // PixelHandle object
     protected $pixelObj;
 
+    protected $asciis = ".`:-,;\"_~!^ir |/I=<>*l1t+j
+    ?v\)(Lf{7}
+    JTcxz]
+    [unsYoFy
+    e2aVk3h
+    ZC4P5A
+    qXpE%0U
+    db6KS9#HwG\$OgD8RQmB&NWM@";
     protected $grayAsciiMap = [
         ["$", "&", "N", "W", "M", "@"],
         ["$", "&", "N", "W", "M", "@"],
@@ -106,23 +114,16 @@ class Image2Ascii
         [" ", " ", ","],
         [" ", "."],
         [" ", "."],
-        [" ", "."],
-        [" ", "."],
-        [" ", "."],
-        [" ", "."],
         [" ", " ", "."],
         [" ", " ", "."],
         [" ", " ", "."],
         [" ", " ", "."],
-        [" ", " ", "."],
-        [" ", " ", "."],
-        [" "],
-        [" "],
         [" "],
         [" "],
         [" "],
         [" "],
     ];
+
 
     public function __construct($target)
     {
@@ -158,12 +159,29 @@ class Image2Ascii
     {
         $result = $this->pixelObj->out();
         $ret = "";
+        $topBorder = false;
         foreach ($result as $pixelChunk) {
+            if (empty($topBorder)) {
+                $topBorder = true;
+                $ret .= "*";
+                for ($i = 1; $i <= count($pixelChunk); $i++) {
+                    $ret .= "-";
+                }
+                $ret .= "*\n";
+            }
+            $ret .= "|";
             foreach ($pixelChunk as $pixel) {
                 $ret .= $this->gray2Ascii($pixel - $this->grayMin);
             }
+            $ret .= "|";
             $ret .= "\n";
         }
+        $ret .= "*";
+        for ($i = 1; $i <= count($pixelChunk); $i++) {
+            $ret .= "-";
+        }
+        $ret .= "*\n";
+
         return $ret;
     }
 
