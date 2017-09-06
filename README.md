@@ -44,54 +44,44 @@ ii7ii7ivrri:ivir :i i  i i   ii i i i  i  i  : ii:
 ![美女](https://github.com/aizuyan/img2ascii/blob/master/test/ly.jpeg)
 
 ```
- iii i  i      i ii i  ii ii i ii iiiiii  i ii  iiiii ii i  i  ii   i       ii   iii     i    ii   i  ii i  ii i    ii
-i   iiii iiii  iiiiii ii iiii i  ii i i iii i  iiiii  i    i  i  ii i i i ii i  ii iiii     i iiiii i    i  iii ii   i   ii
-: ::::::::::::: i i i      ii  i    i  i iii  ii ii    ii ii   ii  i ii i iiiii i ii i   ii i iiiii i i iiii iiii    iii i
-.       ::::::::::::::::::::::::::::::::::::::::i   i ii iiiii  i i    ii i i ii  i ii  iiiii     ii  ii      ii     iiii  i
-   .  ..  , :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::   i  iii
-   ..   . .   ,  , :     :,,   :::    : :: ::::: ::::::    : : :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-  .   .   .  ....  .  . .  .  ..  ,,   ,..    ,, ,,, ,: : ::  : :  :    :::  : :: ::: : :::::  : :   :: ::::: ::::::::::::::
-            .  .. . . .         ..    . .    .          .  . ,  ,   ::: : ::::  :   : :     : :::::: :  : :::  : : :: : :  :
-     ..             ..        . . .  .. .       .  ..   .. . . .  . .....      .. ....  .  .   ,, ,,,    ,  ,,,   ,,,
-                    . .        .. . ..  . .  . .. .. .     .    ..   .. ...   .    .  .  ..  ....  ...... .. .. ,   ,,  , ,
-,   ,, , ,,  , ,,  ... .     .,,,..,  ,. ....     . . .. .      .   ... .        .    .  . ..          .  .  .  . . .   .  .
-:::i  ii::::::  ::::  :  ,:  ,  ,,      ,  ,   ,..      .. .  . .. ..  ..  . ,,...  ..  . .   ..  .  ... .... .    . . ...
-   i  ii   iii i  i:i:::::::::::   , , , ,,    , ,, .       . ............  , r.  ,,       ,  ,, ,.     ,. ....... .
-     ,  ,,,,:: ::::::::::i   ii   ii ::::::::::::::      ,iv     .  .,    , 77r   ,:::   :,:::::: ,  ,  ..,,,,  ,.. .    ..
-::::::  :::::::::: :: :,   ,, ,: :   ::  : : :,,: , .  .  :ii....    :::, :rpiitqviir:::: :, ,:::  ,   :   ::,:     ,,,,,
-riiir:;i;r i ;r::r  :i:i i  i ii i ii  :i::::  :,  ,  .... .,r :: ,  i   rrvrrstrtr9s ,,,,,, , ,   , ,, , ,,,,,  :,: ::   :
-i :i;: iiriiiiii;:i :i   iir r: r i:;::iii;i :::   , , ..   , isrpi :  ;ivtptprqoqr7:::::::: : ,,    ,  , ,     ,       ,,
-:::rr ii:  :r;i:;;i:ri:iriri;iri:;;i : ; iiir ;i:: :;q  .   ..   si ,  :: iivvtrmm9t;rr:r:: i:i  ri ii  iiii  :::::::::::  ,
- :i ii  : :r:i::rrii:irir ri :r:r:i   rr irriii ::rnnirr   .   i,  ,,,, i, ,ii:in8nr rii i    i ii i    i i: :i  r r:    i
- :::i: :; r: riivii;r ri  iiii   :rii i  i osi7i pmr isnnmmmiir:,     :i ii iiiM0BBsrr  iii: i     ii i i i  i ii: ri : i
-: ::iiii::i ii::ii i :::  :: ii i iiii   :vovvin8NripmMNNMM89nmsrtoq9nmtmnrnnprnNM0@mtv  ii    iiri ir  i i  i ii  :  i i
-i rrr iri7ii7vi7iiivvvviivii:;; iii rr ii;v7vm99ri7rpmmmn988mm9mqrtnnotsmMntmmMN8MB08Biis ii   i     i iiii  i  i  iiii ii r
-iir   ii  iirr rr: r;irr  i    i   iiii ivo7ii iiqqMMNN9M8@9tmM0ssMBpm90NB9m900B0BM8B00M0i::i i i ii  iiii  i: ii    ii iii
-ii ir:::i :;rrrr i:; r i::;r   ri:   ri iri:r7iviivtnm00NNBBnnBNoM80m9m0m8MN080000M8M0B0v    i:   i:::::::::::  i   i:::: ii
-:: i i i i i:::i ii iir iirri::ri i :iii  i:msvv77rrmM@mr8B0BB8NrB8MMno9M@0M8B8B80B8N@0ri  iiiiiiii iiri :i:: ::ri  iiii i
-r  r  iirriii :ir;i:;r ii:ii  i:r i i    :::i  ;vvi7qrn0M08BMN9BBN900nN8N8nm88B0BM@00Bi ii    r;: i    r  ii   ii    ii iiii
-rr;r i:rvri ;:riii:rr  i   i :; ririiii   :: i i iirnmrNBB0N@N8MN009m880@BB8@0B@B0@BBq i i   i i    i   ii ri riiii ii r
-ii viiir;r::;iir  vii;;virrivri;;:rr:; r:i::rr:r i irvipn9B@9880o8@MMB0980N80B008BB0tvii i i    i:: i ii:  ii  i     : :::ii
- i  i riii i:::i  i iii :: :  :i: ii    :riii r r:riipooqn80BNn9B80B8B0B08B0088B@0m9i7iiii iiiirri::rr;:  r;r rirr;ir: rr:ir
- ::::: ii:irr::;iv i;iiiiii7iiiiivi7iriiiiiviv7iriirronrrmn9N8800NMBn8@M8B0BB8808i7pr::i ii vi:: ; ; ;:r r::iir: iiiiii i i
-riivv77rvivr7ii7iiiriiii7i7iiriiiviiirriiiirii;;:iirotmrpomNN08nB9M8mMn8B00MN0B8@ri7iriiii:rrri:;ii ii i ::::i: :::::i : i
-viii7vi7v7ii7iiiiviviiirii;rii;i i rr ri:  :ii  ::ir7m9ovqopopin9n8MB@8B8B8008BBNriri i    iii  ii  : ::  i iir ;rviiiriiirv
-irvriiivr ::: rrr i i : i i::: iii i:   i:::  i  :iirm0qs7tivi7in8090808B0@0N0@Bo  i  i i  ii ii :i :irivivriiivrvrvivirir;;
-ii  :i: ::   i:::: ii  :i  i : i r:i  i:iirri: r r:::oBp7i7viit8B0B80B80BB0Mp7insirvrriiiiiivvrivirviviiivrvviririirirv:;rr:
-:iii i  i  ii  iiii;i;:rr   ; ::i;;r;:r ;:r ri;vrririm0@pii:i7ivqN8B@B888B80rmrt9i  rr; r i:ii :::i:r:;ii :  r r::;rri:ri::
-i::vrivii;viviiiiiiiviiiiriiiiiiiiiivviirirrr q0BnrpoM8BrirsiqmsmN80808@BN0tqnomBp:r  ii    i   iririivviiiii ;i:r ;:;r :i i
-viiviirirviiiiiiiiiiiviiirriivrriiiivr::;i:r:vB0@08@Mm809qpB0@mm0B00@0BB8nsivM0M8Ni    ii:   :rriiirrr;vii:;; ;iri ::r i:
-irriiiiiiriiirviviiviiiir   ;r;: :; rii r;;:r888@BB00NBB80B0MnnMr0@@00@00@opnNmN90 :   r;:iri:ri::: ::r  ii:i ri:r; ::;r;i;r
-viiirviri;;:i :r;r:rr i: i;i ri: rr:r  r:i r08B08B8BBm0@88@qpmn0880B8B890BMms9900p;ii; ;ii r: iv ;r:::r ir;;;ri:;r:ii;iiiiii
-iviiriiiirriiv; rr;:ir i:i;::   r::riii :::m8B@88@B80800oMnnmpi00080B@nrB@8ssmmM0qiiirrr:i ;riri:rir   :irrr :rir: ; :;:rir
-vrviiviiiiiirririiii:iirrii; ;ri ;rrrrri ii@988B088B88nmqqBM8rm80M000B8B@B0B09B08nir :rir:iirrriii:ri  : i    ; :i  i :i: ii
-iiiiivrviriirrr:::iri r ri; rrri::rir :riiM0B088@@080BntN@m900NB80@0B0B008M8908B@@; :ii:iir : :rrir  :  ;rii;:: i;; ;r; iiir
-iviirviiviiiivirr::; i  ;r::;;   rr i iiir000808@B9008nmN8988@nBB0B00B9B88mM9080M9pi :    i i  rr::i :iri:::::i:;iir::i:iiii
-vi rr ;r:::i;:;;; :r:  iiiri  iiiiii i iitB88@B8BM0BB0m99BB00m7qnN800@80@Brrn00B8Bor: ;:r:::::   r;i rri:rrr ; ;r ii   ; ir;
-i;i:: irrrr;:;: ;ir riirr ir:i    rr r   90@BB080@B888nNt988MBB0B0BB0N0008n0B88B0@ir i:ii :i: :ir:r   r:i rr  :i ii:ir i;iii
-vii;iiiiiirvi ::r;i :; r :rr ;riii:;r  ii0B0@@0B000@00BB8N0NNN8BB8B0@B800BN00B880@v; iri:iri;r:r::r ii :;ir:::ii  irr   r:ii
-ii :v;ir :; ir;i;r i ::i: i ;r;;r::;;rirrB@8@800BB@00B8B08BB8008BB0B8BMB@8n@@000B8vr::ri i r r i;ii;    ;r:r i ;i  ::ir:r; :
-riii; ;i r vi r;;: r::;;:rii r ;: ; ;;:ipB8@0@B08B8B@00BB08B0000B@@0BBB0B@9BB08B8Bm ri ii;;rir:r ::;:;i;i;r r:r;;:  r;::  :;
+  i  i  i     ii ii i ii  i    iii iiii i iii i   i   iii   ii iii       i  i     iiii i  i   i
+i  i i  i iii iii iii ii i i ii i   iiii i  iii i  i  ii    i  i         iii i   i ii iiiii iii
+   ,,:::::::::::::::::::::::::i ii  iiii  ii ii  i    i i ii ii  i iii iiiiiiiii i i  i i  i  ii
+     .. ,:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  iii  i
+  .     . .      ,,, ,,,,::    ,, : :: :  :      :::::::::::::::::::::::::::::::::::::::::::::::
+            . .  . .    .  ,.  . ... .    , ,,    :   : :    : :  : : ::  :  :::   :: :   :  ::
+   . .         .          . . .      . . .        . .   , , ,, ....  ,    ,, ,,,,,, ,,,   ,,, ,
+    ...   . .       . . .     .          .  .        ..    .   ..   ,   ..... ...   . .      , ,
+:::::::  :,,  ,, , ,, , , ,, ,   . .....  .        .   . . ..  .. . .. .  .   .. . . ..    .   .
+i ii i  ii:::::::::   :   ,,,   ,   ,,   .. ... . .. . .  , :: ,.  .  , ....  .  . .        .
+ , , :::: ::::::::::i i   i:::::::::::: ...  ir.   ..    ,iii  ,,::    ,   ,  , .  , ,, .  . ..
+i  i    i  :::  : ,  ,     :: ::::: ,::  . . i:  . ,, i: irp7qti;ii: ,,   :    :::: : :::   ,:
+ ; ;::;i:;;r:r:: ;: rirri    r i ii  :,,     . rtii   iiirorqrqpqi ,,,, ,, ,, ,, , ,  ,,,, ,  ,,
+:r i  :;r i  r  i;;r  ;i: r::;rr :r  i:::r, .... :ir;  i r:iqspnMirr:i  i     ::::::::   ::::  :
+i i ::r ii:rriii::r    rr;r:rir ii7vi  rnv  i  .,:, , ,,:, i rpBii      ii i i i    rr: i ii i i
+ i r:r iiir;;ii   ii  i iii::r i rsv77n7i7nM0n9p7ri : ii7iivirN8Ni     i iiiiiii     i irr:    i
+i i   i:iiriri; ;r   i::  iirr  irrtM0vitm090@BmNmrotoqpqnqom00M8@9vi i:iii iii   ii  i   iii ii
+:i ii:  ir;    i;rii i     i  i iriiirrr0Nmm08nt90rm0onMMBmNB00B88@NMirir  ii i i  iiii i    i
+  i ii:iir i: i   r i :r i: ::ii:iiviiirm00M9@0n9mo8MnnMm8M88@B00B@8q   :: i:::::::ii i  i  i: i
+r;iri:: ri  iirr ii  i rii iii  r ririposmNn90B0N8M9@Nr009n888080B@s  i ii  i  i r:  i     iii
+ iiiiiiirri:ir: i iii  ::ii i ii  i   iri9n@009980NN8m@08B@BBBB808tiri         i iiii iii  :  i
+iiiviri; iirir;iiiii:;rri;:i ;i  : rri i:vtr90098mn099B8808@08880n7iiiii    :iiii: i iii  i ii:
+:ii  i i::::   : ii:: :i i:iri ii:r;i r:rpopm0@@08@08@88B888@@8mnrvi  i:ri :ir;;; ii:: ::ii :iir
+ :i::iiiririri7iiii7vrrvi7rvivrivvriiii irmpnNNM@00M0m00BBB00@8irrr r r;;;: i  ii ri  iii : i ii
+ri7r7ivvivivvriiiiii:;r;rr:i ir:i: iiiiivpmoqsoqt999NB88008B8807 ::ir :ri       ::      :; iirrr
+iiiiivii:;;::   i:::: :   ii:  i:::  iriiq9ritiiis0@0@B08BB900p ii i ii i  i ;;rvvrvriiiirvivvii
+  : i:::     i  i::irir:;i:rr:i; :i;i  ;is@p7vi7in98008808Bp7vmvi  r :;ri  i iir;iiiiviiir;;ii;:
+i :r i::riiiviiiivrriiiiviiiiivi ; ;pmrtimBniiiirrnB88B089npnsNi:i i iii i  rvviriiii;:ii:: : ii
+riiiiiiiiiriiiiiiviviiirviivr;:;i :t@0088mB8tsB0mnM@8B8899vr00Bs  ii ii ;iiriii:iriii:;  r;:i: i
+iiiiiiviivvvivi:rr ;;:;i   :r;: ir7B0B@B@B88000nmnNBB@BBB0sn9MBs   r;:;i;r r;::;  r:i  :iri:;: :
+riivivi;;r  : :: ir:i:ii:r:rr i   B08BB0@N0@M0sms088BB8m0BniN0Miir   r:r:riii: :irr ;ri:i;; :::i
+iiiiiiiiiiiiivr: :i;r;: rr :;ririm9B8B880BnnsMMmqB00@B0nB@80M0@p:;i:r;;; i:rrii  r riir:  r:;  :
+rivivviririii i: :::r:i:rirri: r7908@@B8@BtrN9N9M0@B@@089B@0BBB0  ir :  r:i  rri:;r;: r;r :: riv
+ii;;:iir:i r  :;r;:iriir i      r@BB888800tM89BBm9B08@080N00B9NNr:ir:ii :ri :r  rir  rr  ::;r r
+ii:;i ri; ii  ;rr:  r::ri i   :iM8@BBB0B00mmMBB9tn000NN08np00@@0iiii:: ;::irrr:::r ri rivv r;:ri
+irrrvriii ;i:r:;;  ir iiri :::r:BB8B@@888@0Bm0M908B0B0@0BB88B0B9i iii::i; ri irr: r:;;r ir ; ::r
+i; iri ;ii;:irii: ;i;i  r;ri;; r0B8B00@0B08@808808B@80B080N808B@ir:;:ii :i; i:;:r;;;: ; : ; :  r
+vrir   ;iir i:r; ir rr ;:  :; :p808@008BB8@@0@BB@0@88B@BBB088B80ori :ii:;ir r:i: ;i rrrir;i:  ;;
 ```
 
 ![美女](https://github.com/aizuyan/img2ascii/blob/master/test/mn.jpg)
